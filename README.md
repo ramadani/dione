@@ -5,6 +5,5 @@ Get the expires
 ## Installation
 
 ```bash
-github.com/ramadani/dione
+go get github.com/ramadani/dione
 ```
-
